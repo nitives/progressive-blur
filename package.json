@@ -9,10 +9,10 @@
     "progressive"
   ],
   "license": "MIT",
-  "author": "Andrew Prifer (https://github.com/AndrewPrifer)",
-  "repository": "AndrewPrifer/progressive-blur",
-  "bugs": "https://github.com/AndrewPrifer/progressive-blur/issues",
-  "homepage": "https://github.com/AndrewPrifer/progressive-blur",
+  "author": "nitives",
+  "repository": "nitives/progressive-blur",
+  "bugs": "https://github.com/nitives/progressive-blur/issues",
+  "homepage": "https://github.com/nitives/progressive-blur",
   "version": "1.0.1",
   "type": "module",
   "files": [
