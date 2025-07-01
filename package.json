@@ -13,7 +13,7 @@
   "repository": "nitives/progressive-blur",
   "bugs": "https://github.com/nitives/progressive-blur/issues",
   "homepage": "https://github.com/nitives/progressive-blur",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "files": [
     "dist"
@@ -31,6 +31,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsup",
+    "prepare": "npm run build",
     "build-vite": "vite build"
   },
   "devDependencies": {
@@ -42,7 +43,6 @@
     "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
-    "framer-motion": "^10.18.0",
     "leva": "^0.9.35",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
